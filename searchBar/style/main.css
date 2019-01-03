@@ -1,0 +1,30 @@
+body {
+    width: 80vw;
+    margin: auto;
+}
+
+.SearchBar {
+    width: 100%;
+    background-color: aqua;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+.SearchBar input {
+    background-image: url(../img/github.svg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    padding-left: 1.5rem;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 5px;
+}
+
+.SearchBar button {
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 5px;
+    background-color: blue;
+    color:white;
+}
